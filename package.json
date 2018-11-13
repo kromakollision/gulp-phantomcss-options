@@ -1,0 +1,29 @@
+{
+  "name": "gulp-phantomcss-options",
+  "version": "0.1.0",
+  "description": "Gulp plugin for PhantomCSS with command line options, fork from gulp-phantomcss",
+  "main": "index.js",
+  "homepage": "https://github.com/kromakollision/gulp-phantomcss#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kromakollision/gulp-phantomcss.git"
+  },
+  "author": "Koen Buckinx <shout@kromakollision.be>",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "casperjs": "1.1.3",
+    "gulp-util": "3.0.7",
+    "lodash": "3.10.1",
+    "phantomcss": "1.1.3",
+    "phantomjs-prebuilt": "2.1.7",
+    "through2-concurrent": "1.1.1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "proxyquire": "^1.7.9",
+    "sinon": "^1.17.4"
+  }
+}
