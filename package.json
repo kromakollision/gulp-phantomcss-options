@@ -1,6 +1,6 @@
 {
   "name": "gulp-phantomcss-options",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gulp plugin for PhantomCSS with command line options, fork from gulp-phantomcss",
   "main": "index.js",
   "homepage": "https://github.com/kromakollision/gulp-phantomcss#readme",
